@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/marginGeneral"
+    android:orientation="vertical"
+    tools:context="com.arba.appcrudsqlite.MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tittle_main"
+        android:gravity="center"
+        android:textSize="@dimen/principalTextSize"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/marginGeneral"/>
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRegisterView"/>
+    <Button
+        android:id="@+id/btnCrud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnCrudView"/>
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginGeneral">15dp</dimen>
+    <dimen name="principalTextSize">25sp</dimen>
+    <dimen name="midTitle">20sp</dimen>
+</resources>

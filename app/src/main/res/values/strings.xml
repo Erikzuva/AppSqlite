@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppCrudSqlite</string>
+    <string name="btnRegisterView">Register Person</string>
+    <string name="btnCrudView">Consult Person</string>
+    <string name="tittle_main">Principal View</string>
+    <string name="txtRegisterTittle">Register Person</string>
+    <string name="crudPerson">Crud Person</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txtGender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="btnAdd">Add Person</string>
+    <string name="txtId">ID</string>
+    <string name="txtSearch">Search</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnClean">Clean</string>
+</resources>
